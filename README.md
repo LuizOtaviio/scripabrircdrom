@@ -1,5 +1,6 @@
 # scripabrircdrom
 script fácil de usar para abrir o cdrom
+
 1° Script para para cdrom localizados em (D:)
 
 ```
@@ -150,7 +151,11 @@ echo.
 
 ping -n 5 -w 1000 0.0.0.1 > nul
 
+```
+
 2° Script para cdrom localizados em (E:)
+
+```
 
 color F
 @echo off
@@ -298,7 +303,11 @@ echo.
 
 ping -n 5 -w 1000 0.0.0.1 > nul
 
+```
+
 3° Script para localizados em (F:)
+
+```
 
 color F
 @echo off
